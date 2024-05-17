@@ -1,4 +1,4 @@
-![Banner](imgs/DDAE-log.png)
+![Banner](https://i.imgur.com/MCpSmjH.png)
 
 # Doki Doki AI Edition (DDAE)
 
