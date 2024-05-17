@@ -1,5 +1,3 @@
-![Banner](https://i.imgur.com/MCpSmjH.png)
-
 # Doki Doki AI Edition (DDAE)
 
 A fan made mod of DDLC that utilizes AI to output unique responses in most areas of the mod.
