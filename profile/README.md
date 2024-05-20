@@ -2,7 +2,7 @@
 
 A fan made mod of DDLC that utilizes AI to output unique responses in most areas of the mod.
 
-Note that not everything is AI generated such as the sprites, default backgrounds and some voices you may hear while playing.
+Note that not everything is AI generated such as the sprites, default backgrounds and voices you may hear while playing.
 
 
 
